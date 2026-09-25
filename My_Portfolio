@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <TITLE>my portfolio</TITLE>
+</head>
+<body>
+<img src="Passport_photo.jpg" alt="Profile Image" width="200px" height="200px">
+<h1>Natalia Eva Gachau/PORTFOLIO</h1>
+    <em>An aspiring cyber security engineer,an enthusiast in the Technology world.</em>
+
+
+    <h4><a href="About ME.html">About Me</a>
+    <a href="Services.html">Services</a>
+    <a href="Contacts.html">Contacts</a>
+    <a href="Projects.html">Projects</a></h4>
+<h2><b>About Me</b></h2>
+    <p> My name is Natalia Eva Gachau. I am a student at the KCA university pursuing a degree in applied computing.
+
+<h3><b>My skills</b></h3>
+    <ul>
+        <li>Python programming</li>
+        <li>Network security</li>
+        <li>Database management</li>
+    </ul>
+
+<section id="Services">
+    <h2><b>Services</b></h2>
+    <p>I offer a range of services to help individuals and businesses enhance their online presence and security. My services include:</p>
+    <ul>
+        <li>Web Development</li>
+        <li>Cybersecurity Consulting</li>
+        <li>Database Management</li>
+    </ul>
+</section>
+<section id="Projects">
+    <h2><b>Projects</b></h2>
+    <p>Here are some of the projects I have worked on:</p>
+    <ul>
+        <li>Portfolio Website</li>
+        <li>Network Security Analysis</li>
+        <li>Database Management System</li>
+    </ul>
+</section>
+<section id="Contacts">
+    <h2><b>Contacts</b></h2>
+    <p>Gmail: <a href="mailto:nataliaevagachau@gmail.com">nataliaevagachau@gmail.com</a></p>
+    <p>Github: <a href="https://github.com/nataliaevagachau" target="_blank">nataliaevagachau</a></p>
+</section>
+<footer>
+    <p>&copy; 2026 Natalia Eva Gachau. All rights reserved.</p>
+</footer>
+</body>
+</html>
+
